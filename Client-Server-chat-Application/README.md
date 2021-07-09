@@ -1,7 +1,4 @@
 
-This project was based on my course CSE-5306 Distributed System.
-It was developed in 3 phases. In each phase I have implemented different concepts of Distributed System.
-
 Phase 1:
 In this phase, I have implemented simple multiple clients - server application which support Unicast, Multicast and Broadcast messages.
  Code Structure:
